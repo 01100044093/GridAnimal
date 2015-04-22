@@ -3,18 +3,23 @@
 仿照LISVIEW 做出来的GRIDVIEW的动画
 
 使用方法和googlelistview基本一样
-
+···java
 adapter=new aadapter(this,list);----生成Adapter
                 GridViewSwingBottomInAnimationAdapter swingBottomInAnimationAdapter= new GridViewSwingBottomInAnimationAdapter(adapter);-----直接引入动画文件
                 swingBottomInAnimationAdapter.setGridView(gridView); ------把GridView加进动画文件
                 gridView.setAdapter(swingBottomInAnimationAdapter);-------把动画set进GridView
-复制代码
+```
 
 目前动画方法有四个
+
 GridViewScaleInAnimationAdapter
+
 GridViewSwingBottomInAnimationAdapter
+
 GridViewSwingLeftInAnimationAdapter
+
 GridViewSwingRightInAnimationAdapter
+
 
 效果如下：
 
