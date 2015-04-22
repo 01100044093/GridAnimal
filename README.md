@@ -17,6 +17,7 @@ GridViewSwingLeftInAnimationAdapter
 GridViewSwingRightInAnimationAdapter
 
 效果如下：
+
 ![1](https://github.com/01100044093/GridAnimal/blob/master/113634nn8z1xkc6zux4oxf.gif)
 ![2](https://github.com/01100044093/GridAnimal/blob/master/113634qs7gvr6ljrv6glil.gif)
 ![3](https://github.com/01100044093/GridAnimal/blob/master/113635x1k1rz2kk1w1b15u.gif)
